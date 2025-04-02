@@ -1,6 +1,6 @@
-# API PRACTICA-1 ESTUDIANTES DE UNIVERSIDAD
+# API PRACTICA-1 ESTUDIANTES-UNIVERSIDAD
 
-API REST para la gestión de estudiantes, docentes y materias en una universidad.
+API REST para la gestión de estudiantes.
 
 ## Estructura del Proyecto
 
@@ -58,11 +58,11 @@ La API como tal estará disponible en: `http://localhost:8080/api/estudiantes`
 
 ## Tecnologías Utilizadas
 
-- **Spring Boot 3.4.4**
+- **Spring Boot 3.4.3**
 - **Java 23**
 - **Maven**
 
 ## Repositorio GitHub
 
-[Enlace al repositorio]()
+[Enlace al repositorio](https://github.com/jafernandez22/CRUD-SPRING-BOOT.git)
 
